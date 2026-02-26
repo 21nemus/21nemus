@@ -1,4 +1,4 @@
-## **Sergej Stein (aka Nemus)**
+# **Sergej Stein (aka Nemus)**
 
 Founder and early Web3 builder with experience across DeFi, staking infrastructure, and tokenization platforms since 2017.
 
@@ -10,7 +10,7 @@ Currently building infrastructure for autonomous trading agents.
 
 ---
 
-## **Experience**
+## 👨‍💻 **Experience**
 
 **Co-Founder — Stakecito Labs (2021 – present)**
 
@@ -46,7 +46,7 @@ Equities, FX, and commodities.
 
 ---
 
-## **Education**
+## 🎓 **Education**
 
 **University of Nicosia (2018 – 2019)**
 
@@ -62,7 +62,7 @@ Exchange year in Moscow
 
 ---
 
-## **Publications, interviews & media**
+## 🧠 **Publications, interviews & media**
 
 **ETHLend (Aave) — Financial Advisor Interview**
 
@@ -72,19 +72,11 @@ https://x.com/aave/status/903666522001997826
 
 https://bitcointalk.org/index.php?topic=2090735.920
 
-**ETHLend — Profile & quote (People of Blockchain)**
-
-https://www.linkedin.com/posts/people-of-blockchain_sergej-stein-serial-entrepreneur-and-token-activity-6323511540502921216-cUIP
-
-**Frankfurt School Blockchain Center — Research article on Bitcoin vs Gold valuation**
-
-https://philippsandner.medium.com/it-is-not-fair-to-compare-the-prices-of-gold-and-bitcoin-its-all-about-market-capitalization-58c790671671
-
 **IPOR Labs — Explainer: Inter-Protocol Offered Rate (IPOR)**
 
 https://medium.com/ipor-labs/what-is-the-inter-protocol-offered-rate-or-the-ipor-1f4d71407160
 
-**Amazing Blocks — Interview on tokenization strategy and regulation**
+**Amazing Blocks — Interview on RWA tokenization strategy and regulation**
 
 https://de.beincrypto.com/amazing-blocks-sergej-stein-im-interview-tokenisierung/
 
