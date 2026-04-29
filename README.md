@@ -2,17 +2,17 @@
 
 Founder and early Web3 builder with experience across DeFi, staking infrastructure, and tokenization platforms since 2017.
 
-Co-founded and scaled blockchain ventures spanning validator infrastructure (Stakecito Labs), tokenization software (Amazing Blocks AG), and crypto capital advisory (DLT Capital GmbH).
+Co-founded and scaled ventures spanning validator infrastructure (Stakecito Labs), tokenization software (Amazing Blocks AG), and corporate finance advisory (DLT Capital GmbH).
 
 Previously contributed to ETHLend (later Aave) and IPOR Labs, and conducted blockchain research at the Frankfurt School Blockchain Center.
 
-Currently building infrastructure for autonomous trading agents.
+Currently building infrastructure for robotics market intelligence.
 
 ---
 
 ## 👨‍💻 **Experience**
 
-**Co-Founder — Stakecito Labs (2021 – present)**
+**Co-Founder — Stakecito Labs (2021 – 2026)**
 
 Validator and staking infrastructure provider across major PoS ecosystems.
 
