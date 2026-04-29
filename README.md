@@ -1,4 +1,4 @@
-# **Sergej Stein (aka Nemus)**
+# **Sergej Stein (Serch)**
 
 Founder and early Web3 builder with experience across DeFi, staking infrastructure, and tokenization platforms since 2017.
 
