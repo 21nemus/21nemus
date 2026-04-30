@@ -40,10 +40,6 @@ Blockchain research and industry collaboration.
 
 Corporate data and financial analysis.
 
-**Independent trader (2011 – 2014)**
-
-Equities, FX, and commodities.
-
 ---
 
 ## 🎓 **Education**
@@ -105,12 +101,4 @@ https://youtu.be/D7gJITxjW7w
 ## 🌐 Links
 
 X: https://x.com/21nemus  
-Stakecito Labs: https://x.com/stakecito  
-
----
-
-## ⚙️ Current Focus
-
-Autonomous trading agents  
-AI-driven on-chain execution  
-Crypto infrastructure & staking  
+Stakecito Labs: https://x.com/stakecito   
