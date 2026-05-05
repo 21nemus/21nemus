@@ -38,7 +38,7 @@ Blockchain research and industry collaboration.
 
 **Analyst — Bureau van Dijk (Moody’s;  2015 – 2016)**
 
-Corporate data and financial analysis.
+Corporate data and financial reports.
 
 ---
 
@@ -64,10 +64,6 @@ Exchange year in Moscow
 
 https://x.com/aave/status/903666522001997826
 
-**ETHLend — Team introduction by Stani Kulechov (Bitcointalk)**
-
-https://bitcointalk.org/index.php?topic=2090735.920
-
 **IPOR Labs — Explainer: Inter-Protocol Offered Rate (IPOR)**
 
 https://medium.com/ipor-labs/what-is-the-inter-protocol-offered-rate-or-the-ipor-1f4d71407160
@@ -76,7 +72,7 @@ https://medium.com/ipor-labs/what-is-the-inter-protocol-offered-rate-or-the-ipor
 
 https://de.beincrypto.com/amazing-blocks-sergej-stein-im-interview-tokenisierung/
 
-**Frankfurt School / Prof. Philipp Sandner — Podcast interview**
+**Frankfurt School Blockchain Center / Prof. Philipp Sandner — Podcast**
 
 https://open.spotify.com/episode/6KrHS9L7w9GgW3m9NjLbzq
 
