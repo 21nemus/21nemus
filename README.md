@@ -16,10 +16,6 @@ Currently building infrastructure for robotics market intelligence.
 
 Validator and staking infrastructure provider across major PoS ecosystems.
 
-**Institutional BD Lead — IPOR Labs (2021)**
-
-On-chain interest rate derivatives protocol.
-
 **CEO — Amazing Blocks AG (2020 – 2021)**
 
 RWA tokenization and compliant digital asset issuance software.
@@ -83,10 +79,6 @@ https://youtu.be/nBv9nfkrdY8
 **Stakecito — Podcast with Celestia core engineer**
 
 https://x.com/stakecito/status/1854229427661455577
-
-**Stakecito — Podcast with Meta Pool (NEAR)**
-
-https://www.youtube.com/watch?v=z1ckrBau1OA&list=PL2fMVi8C13ntrhTUJxsBetjGJhw-sfxVn
 
 **Stakecito — Podcast with BRC-20 inventor / Delphi Labs engineer**
 
