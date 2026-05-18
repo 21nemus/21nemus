@@ -12,7 +12,11 @@ Currently building infrastructure for robotics market intelligence.
 
 ## 👨‍💻 **Experience**
 
-**Co-Founder — Stakecito Labs (2021 – 2026)**
+**Founder — RoboIndex (2026 – present)**
+
+Powering Robotics Insights.
+
+**Co-Founder — Stakecito Labs (2021 – present)**
 
 Validator and staking infrastructure provider across major PoS ecosystems.
 
@@ -88,5 +92,6 @@ https://youtu.be/D7gJITxjW7w
 
 ## 🌐 Links
 
-X: https://x.com/21nemus  
-Stakecito Labs: https://x.com/stakecito   
+Personal X: https://x.com/21nemus 
+RoboIndex: https://www.roboindex.io/
+Stakecito Labs: https://www.stakecito.com/   
