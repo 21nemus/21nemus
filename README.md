@@ -16,7 +16,7 @@ Currently building infrastructure for robotics market intelligence.
 
 Powering Robotics Insights.
 
-**Co-Founder — Stakecito Labs (2021 – present)**
+**Co-Founder — Stakecito Labs (2021 – 2026)**
 
 Validator and staking infrastructure provider across major PoS ecosystems.
 
