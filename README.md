@@ -14,7 +14,7 @@ Currently building infrastructure for robotics market intelligence.
 
 **Founder — RoboIndex (2026 – present)**
 
-Powering Robotics Insights.
+Market intelligence platform for the age of robotics.
 
 **Co-Founder — Stakecito Labs (2021 – 2026)**
 
@@ -26,15 +26,15 @@ RWA tokenization and compliant digital asset issuance software.
 
 **Co-Founder — DLT Capital GmbH (2018 – 2020)**
 
-Crypto advisory, token economics, and fundraising for blockchain projects.
+Corporate finance, token economics, and fundraising for Web3 projects.
 
 **Financial Advisor — ETHLend (later Aave; 2017)** 
 
-Largest DeFi lending protocol on Ethereum.
+Early core-team advisor for largest DeFi lending protocol on Ethereum.
 
 **Researcher — Frankfurt School Blockchain Center (2017)**
 
-Blockchain research and industry collaboration.
+Web3 researcher, author and event organizer.
 
 **Analyst — Bureau van Dijk (Moody’s;  2015 – 2016)**
 
