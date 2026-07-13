@@ -46,7 +46,7 @@ Corporate data and financial reports.
 
 **University of Nicosia (2018 – 2019)**
 
-MSc Digital Currency (incomplete)
+MSc Digital Currency (dropout)
 
 **Frankfurt School of Finance & Management (2014 – 2017)**
 
