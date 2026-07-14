@@ -1,12 +1,34 @@
 # **Sergej Stein (Serch)**
 
-Founder and early Web3 builder with experience across DeFi, staking infrastructure, and tokenization platforms since 2017.
+**Founder of RoboIndex, building market intelligence for robotics and physical AI.**
 
-Co-founded and scaled ventures spanning validator infrastructure (Stakecito Labs), tokenization software (Amazing Blocks AG), and corporate finance advisory (DLT Capital GmbH).
+Third-time founder with a decade of experience building data-heavy products and infrastructure in emerging technologies.
 
-Previously contributed to ETHLend (later Aave) and IPOR Labs, and conducted blockchain research at the Frankfurt School Blockchain Center.
+I am now focused full-time on robotics, structured market data, robot benchmarking and AI-native research systems.
 
-Currently building infrastructure for robotics market intelligence.
+Previously, I co-founded and scaled ventures spanning validator infrastructure (Stakecito Labs), tokenization software (Amazing Blocks AG), and digital assets (DLT Capital GmbH).
+
+---
+
+## 🤖 **RoboIndex**
+
+RoboIndex is a market intelligence platform for the robotics economy.
+
+It connects:
+
+- robotics companies and the robots they build
+- funding rounds, investors and valuations
+- public robotics stocks and ETFs
+- robot specifications and comparisons
+- patents and technical signals
+- commercial availability and deployment status
+- category trends and transparent benchmarks
+
+The goal is to answer a simple question:
+
+> What company builds what robot, who funded it, and is it actually deployed?
+
+I am building RoboIndex with a lean, AI-native operating model, using OpenClaw agents, Claude Code, Codex and automated workflows for data collection, research, enrichment, coding, news monitoring and distribution.
 
 ---
 
