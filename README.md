@@ -123,6 +123,16 @@ Built one of Germany’s first crypto-native corporate finance consultancies, fo
 
 Supported ETHLend, now Aave, during its early fundraising and ICO phase.
 
+### Researcher,  Frankfurt School Blockchain Center (2017)**
+
+Web3 researcher, author and event organizer.
+
+**2015 to 2016**
+
+### Analyst, Bureau van Dijk (acquired by Moody’s)
+
+Corporate data and financial reports.
+
 ---
 
 ## 🧠 **Publications, interviews & media**
