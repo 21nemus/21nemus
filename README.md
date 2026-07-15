@@ -36,7 +36,7 @@ RoboIndex on LinkedIn: https://www.linkedin.com/company/roboindex/
 
 ---
 
-## 👨‍💻 **How I work**
+## ⚙️ **How I work**
 
 I like building in markets where technology is advancing faster than the information systems around it.
 
@@ -48,36 +48,6 @@ My approach combines:
 - automated operational workflows
 - strong public distribution
 - long-term category conviction
-
-## 👨‍💻 **Experience**
-
-**Founder — RoboIndex (2026 – present)**
-
-Market intelligence platform for the age of robotics.
-
-**Co-Founder — Stakecito Labs (2021 – 2026)**
-
-Validator and staking infrastructure provider across major PoS ecosystems.
-
-**CEO — Amazing Blocks AG (2020 – 2021)**
-
-RWA tokenization and compliant digital asset issuance software.
-
-**Co-Founder — DLT Capital GmbH (2018 – 2020)**
-
-Corporate finance, token economics, and fundraising for Web3 projects.
-
-**Financial Advisor — ETHLend (later Aave; 2017)** 
-
-Early core-team advisor for largest DeFi lending protocol on Ethereum.
-
-**Researcher — Frankfurt School Blockchain Center (2017)**
-
-Web3 researcher, author and event organizer.
-
-**Analyst — Bureau van Dijk (Moody’s;  2015 – 2016)**
-
-Corporate data and financial reports.
 
 ---
 
@@ -123,13 +93,15 @@ Built one of Germany’s first crypto-native corporate finance consultancies, fo
 
 Supported ETHLend, now Aave, during its early fundraising and ICO phase.
 
-### Researcher,  Frankfurt School Blockchain Center (2017)**
+### Researcher,  Frankfurt School Blockchain Center
+
+**2017**
 
 Web3 researcher, author and event organizer.
 
-**2015 to 2016**
-
 ### Analyst, Bureau van Dijk (acquired by Moody’s)
+
+**2015 to 2016**
 
 Corporate data and financial reports.
 
@@ -156,14 +128,6 @@ https://open.spotify.com/episode/6KrHS9L7w9GgW3m9NjLbzq
 **Stakecito — Podcast with dYdX Foundation CEO**
 
 https://youtu.be/nBv9nfkrdY8
-
-**Stakecito — Podcast with Celestia core engineer**
-
-https://x.com/stakecito/status/1854229427661455577
-
-**Stakecito — Podcast with BRC-20 inventor / Delphi Labs engineer**
-
-https://youtu.be/D7gJITxjW7w
 
 ---
 
