@@ -30,7 +30,24 @@ The goal is to answer a simple question:
 
 I am building RoboIndex with a lean, AI-native operating model, using OpenClaw agents, Claude Code, Codex and automated workflows for data collection, research, enrichment, coding, news monitoring and distribution.
 
+RoboIndex: https://www.roboindex.io/
+RoboIndex on X: https://x.com/roboindexio
+RoboIndex on LinkedIn: https://www.linkedin.com/company/roboindex/
+
 ---
+
+## 👨‍💻 **How I work**
+
+I like building in markets where technology is advancing faster than the information systems around it.
+
+My approach combines:
+
+- rapid product iteration
+- structured data and research
+- AI-assisted engineering
+- automated operational workflows
+- strong public distribution
+- long-term category conviction
 
 ## 👨‍💻 **Experience**
 
@@ -64,19 +81,47 @@ Corporate data and financial reports.
 
 ---
 
-## 🎓 **Education**
+## 👨‍💻 **Selected Experience**
 
-**University of Nicosia (2018 – 2019)**
+### Founder, RoboIndex
 
-MSc Digital Currency (dropout)
+**2026 to present**
 
-**Frankfurt School of Finance & Management (2014 – 2017)**
+Building the market intelligence platform for robotics and physical AI.
 
-BSc International Business Administration
+### Co-Founder, Stakecito
 
-**Higher School of Economics (2016)**
+**2021 to 2026**
 
-Exchange year in Moscow
+Built validator and staking infrastructure across 40+ proof-of-stake networks.
+
+- 200k+ stakers
+- $300M+ in delegated assets
+- $1M+ ARR
+- Self-funded
+- Team of 7+
+
+### CEO, Amazing Blocks AG
+
+**2020 to 2021**
+
+Built compliant RWA tokenization and digital asset issuance software in Liechtenstein.
+
+- $1M+ ARR
+- Venture-backed
+- Team of 5
+
+### Co-Founder, DLT Capital
+
+**2018 to 2020**
+
+Built one of Germany’s first crypto-native corporate finance consultancies, focused on fundraising, token economics and capital markets.
+
+### Head of Finance / Financial Advisor, ETHLend
+
+**2017**
+
+Supported ETHLend, now Aave, during its early fundraising and ICO phase.
 
 ---
 
@@ -112,8 +157,24 @@ https://youtu.be/D7gJITxjW7w
 
 ---
 
+## 🎓 **Education**
+
+**University of Nicosia (2018 – 2019)**
+
+MSc Digital Currency (dropout)
+
+**Frankfurt School of Finance & Management (2014 – 2017)**
+
+BSc International Business Administration
+
+**Higher School of Economics (2016)**
+
+Exchange year in Moscow
+
+---
+
 ## 🌐 Links
 
-Personal X: https://x.com/21nemus 
+Personal X: https://x.com/21nemus
+Personal LinkedIn: https://www.linkedin.com/in/sergej-stein/
 RoboIndex: https://www.roboindex.io/
-Stakecito Labs: https://www.stakecito.com/   
