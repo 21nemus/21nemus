@@ -59,7 +59,7 @@ My approach combines:
 
 Building the market intelligence platform for robotics and physical AI.
 
-### Co-Founder, Stakecito
+### Co-Founder, Stakecito Labs
 
 **2021 to 2026**
 
@@ -81,7 +81,7 @@ Built compliant RWA tokenization and digital asset issuance software in Liechten
 - Venture-backed
 - Team of 5
 
-### Co-Founder, DLT Capital
+### Co-Founder, DLT Capital GmbH
 
 **2018 to 2020**
 
