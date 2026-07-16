@@ -28,7 +28,7 @@ The goal is to answer a simple question:
 
 > What company builds what robot, who funded it, and is it actually deployed?
 
-I am building RoboIndex with a lean, AI-native operating model, using OpenClaw agents, Claude Code, Codex and automated workflows for data collection, research, enrichment, coding, news monitoring and distribution.
+I am building RoboIndex with a lean, AI-native operating model, using OpenClaw agents, Claude Code, Cursor and automated workflows for data collection, research, enrichment, coding, news monitoring and distribution.
 
 RoboIndex: https://www.roboindex.io/
 RoboIndex on X: https://x.com/roboindexio
