@@ -141,10 +141,6 @@ MSc Digital Currency (dropout)
 
 BSc International Business Administration
 
-**Higher School of Economics (2016)**
-
-Exchange year in Moscow
-
 ---
 
 ## 🌐 Links
