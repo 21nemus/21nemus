@@ -2,11 +2,11 @@
 
 **Founder of RoboIndex, building market intelligence for robotics and physical AI.**
 
-Third-time founder with a decade of experience building data-heavy products and infrastructure in emerging technologies.
+Third-time founder with a decade of experience building data-heavy products and infrastructure.
 
-I am now focused full-time on robotics, structured market data, robot benchmarking and AI-native research systems.
+I am now focused full-time on robotics, structured market data, and AI-native research systems.
 
-Previously, I co-founded and scaled ventures spanning validator infrastructure (Stakecito Labs), tokenization software (Amazing Blocks AG), and digital assets (DLT Capital GmbH).
+Previously, I co-founded and scaled ventures spanning RWA tokenization software (Amazing Blocks AG), validator infrastructure (Stakecito Labs), and digital assets (DLT Capital GmbH).
 
 ---
 
@@ -18,9 +18,7 @@ It connects:
 
 - robotics companies and the robots they build
 - funding rounds, investors and valuations
-- public robotics stocks and ETFs
 - robot specifications and comparisons
-- patents and technical signals
 - commercial availability and deployment status
 - category trends and transparent benchmarks
 
@@ -87,11 +85,11 @@ Built compliant RWA tokenization and digital asset issuance software in Liechten
 
 Built one of Germany’s first crypto-native corporate finance consultancies, focused on fundraising, token economics and capital markets.
 
-### Head of Finance / Financial Advisor, ETHLend
+### Core Team, ETHLend
 
 **2017**
 
-Supported ETHLend, now Aave, during its early fundraising and ICO phase.
+Supported ETHLend, now Aave, in the early days of its testnet and during its early fundraising ICO phase.
 
 ### Researcher,  Frankfurt School Blockchain Center
 
@@ -112,6 +110,10 @@ Corporate data and financial reports.
 **ETHLend (Aave) — Financial Advisor Interview**
 
 https://x.com/aave/status/903666522001997826
+
+**ETHLend (Aave) — Decentralized lending**
+
+https://medium.com/stateofthedapps/decentralized-lending-2d0531c299c5
 
 **IPOR Labs — Explainer: Inter-Protocol Offered Rate (IPOR)**
 
