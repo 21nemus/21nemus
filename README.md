@@ -85,11 +85,11 @@ Built compliant RWA tokenization and digital asset issuance software in Liechten
 
 Built one of Germany’s first crypto-native corporate finance consultancies, focused on fundraising, token economics and capital markets.
 
-### Core Team, ETHLend
+### Advisor, ETHLend
 
 **2017**
 
-Supported ETHLend, now Aave, in the early days of its testnet and during its early fundraising ICO phase.
+Supported ETHLend, now Aave, through its early testnet and ICO raise.
 
 ### Researcher,  Frankfurt School Blockchain Center
 
