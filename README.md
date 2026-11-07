@@ -1,4 +1,4 @@
-# **Sergej Stein (Serch)**
+# **Sergej Stein**
 
 **Founder of RoboIndex, building market intelligence for robotics and physical AI.**
 
