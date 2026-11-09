@@ -1,36 +1,10 @@
 # **Sergej Stein**
 
-**Founder of RoboIndex, building market intelligence for robotics and physical AI.**
+I am a third-time founder and commercial operator with 10+ years of experience building and scaling technical products, infrastructure, and companies across AI, data, Web3, and robotics.
 
-Third-time founder with a decade of experience building data-heavy products and infrastructure.
+My background sits at the intersection of technology, customers, and execution. I have led GTM, strategic accounts, partnerships, enterprise implementations, fundraising, business development, customer success, operations, and team building, typically in environments where there was no established playbook.
 
-I am now focused full-time on robotics, structured market data, and AI-native research systems.
-
-Previously, I co-founded and scaled ventures spanning RWA tokenization software (Amazing Blocks AG), validator infrastructure (Stakecito Labs), and digital assets (DLT Capital GmbH).
-
----
-
-## 🤖 **RoboIndex**
-
-RoboIndex is a market intelligence platform for the robotics economy.
-
-It connects:
-
-- robotics companies and the robots they build
-- funding rounds, investors and valuations
-- robot specifications and comparisons
-- commercial availability and deployment status
-- category trends and transparent benchmarks
-
-The goal is to answer a simple question:
-
-> What company builds what robot, who funded it, and is it actually deployed?
-
-I am building RoboIndex with a lean, AI-native operating model, using OpenClaw agents, Claude Code, Cursor and automated workflows for data collection, research, enrichment, coding, news monitoring and distribution.
-
-RoboIndex: https://www.roboindex.io/
-RoboIndex on X: https://x.com/roboindexio
-RoboIndex on LinkedIn: https://www.linkedin.com/company/roboindex/
+Most recently, I built RoboIndex, a market intelligence platform covering 2,000+ robotics companies and approximately 1,000 robots. I built it with a lean AI-native operating model using agents and automated workflows for research, data collection, enrichment, coding, monitoring, and product development.
 
 ---
 
