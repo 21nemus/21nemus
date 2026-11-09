@@ -65,9 +65,9 @@ Built validator and staking infrastructure across 40+ proof-of-stake networks.
 
 - 200k+ stakers
 - $300M+ in delegated assets
-- $1M+ ARR
+- $1M lifetime revenue
 - Self-funded
-- Team of 7+
+- Team of 7
 
 ### CEO, Amazing Blocks AG
 
@@ -75,7 +75,7 @@ Built validator and staking infrastructure across 40+ proof-of-stake networks.
 
 Built compliant RWA tokenization and digital asset issuance software in Liechtenstein.
 
-- $1M+ ARR
+- Closed and delivered a ~€1M custom white-label implementation
 - Venture-backed
 - Team of 5
 
