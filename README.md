@@ -53,7 +53,7 @@ My approach combines:
 
 ### Founder, RoboIndex
 
-**2026 to present**
+**2026**
 
 Building the market intelligence platform for robotics and physical AI.
 
@@ -81,7 +81,7 @@ Built compliant RWA tokenization and digital asset issuance software in Liechten
 
 ### Co-Founder, DLT Capital GmbH
 
-**2018 to 2020**
+**2018 to 2019**
 
 Built one of Germany’s first crypto-native corporate finance consultancies, focused on fundraising, token economics and capital markets.
 
