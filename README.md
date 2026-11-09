@@ -104,23 +104,3 @@ https://open.spotify.com/episode/6KrHS9L7w9GgW3m9NjLbzq
 **Stakecito — Podcast with dYdX Foundation CEO**
 
 https://youtu.be/nBv9nfkrdY8
-
----
-
-## 🎓 **Education**
-
-**University of Nicosia (2018 – 2019)**
-
-MSc Digital Currency (dropout)
-
-**Frankfurt School of Finance & Management (2014 – 2017)**
-
-BSc International Business Administration
-
----
-
-## 🌐 Links
-
-Personal X: https://x.com/21nemus
-Personal LinkedIn: https://www.linkedin.com/in/sergej-stein/
-RoboIndex: https://www.roboindex.io/
